@@ -1,6 +1,8 @@
 # CovMcd
 Scalable Robust Estimators with High Breakdown Point Use CovMcd (rrcov) With (In) R Software
 
+https://www.youtube.com/watch?v=OHXfQ_wQAHE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
